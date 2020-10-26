@@ -1,0 +1,15 @@
+.delete{
+    color: #878787;
+    background-color: transparent;
+    border: 0;
+}
+
+.delete:hover{
+    color: #000;
+}
+
+.todo-name{
+    background-color: #B0E6FF;
+    padding: 5px 15px;
+    color: #000000d7;
+}

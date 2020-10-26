@@ -1,4 +1,6 @@
-.main{
-    color: #FFA07A;
-    background-color: #F4A460;
+.todo-bg{
+    background: url(../../todo-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
 }
